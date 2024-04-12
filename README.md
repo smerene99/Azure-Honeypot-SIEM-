@@ -1,7 +1,7 @@
 <h1>Azure Honeypot (SIEM) Project</h1>
 
 
- ### [Click Here for full breakdown of the project](https://medium.com/@smerene/azure-honeypot-project-8bb8a8826a7e) (Medium)
+ ### [Click Here for the full breakdown of the project](https://medium.com/@smerene/azure-honeypot-project-8bb8a8826a7e) (Medium)
 
 
 <h2>Description</h2>
