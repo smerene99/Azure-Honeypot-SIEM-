@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ktaDVGsBkXe1qSyH7BRO3A.png"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xgjMRFFb5ICYBDpB3d98ww.jpeg"/>
 </p>
 <br />
 The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
@@ -26,16 +26,16 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from Panama coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xrLa3ABOG9xqAs4ZFzu6HQ.png"/>
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>World Map of all of the incoming attacks(built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ta4DsBB42u7RmvVi6QBmNg.png"/>
 </p>
 
 
